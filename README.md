@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy Estudiante de ingenieria en sistemas computacionales.
+Me gusta aprender cosas nuevas y la programacion... :D
+
 Licenciamiento para los cursos:
 - Apple University Programm beca de 200 dispositivo iOS
 - Amazon Web Services AWSEducate beca de $50 dlls estudiantes y $200 dlls a 👩‍🏫 docentes 
